@@ -1,5 +1,5 @@
 # _Филатова Наталия Владимировна_
-![фото](https://github.com/NattPhill/Portfolio/blob/main/images/Gallery_1700216911349.jpg?raw=true)
+![фото](https://github.com/NattPhill/Portfolio/blob/main/images/Gallery_1700216911349.jpg?raw=true){:width="200px"}
 ## О себе
 Привет! Меня зовут Наталия, мне 37 лет, и я нахожусь на захватывающем пути в мир Java-разработки. Мое увлечение — аквариумистика, и я с удовольствием ухаживаю за своими водными обитателями.
 
